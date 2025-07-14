@@ -1,0 +1,10 @@
+openai
+prompt_toolkit
+networkx
+faiss-cpu
+requests
+langchain>=0.1.14
+langchain-community>=0.0.20
+google-generativeai
+duckduckgo-search
+websockets
